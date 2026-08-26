@@ -230,23 +230,5 @@
       "Good work reverting commits!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1787741227.64459,
-    "completed_at": 1787741230.550886,
-    "comments": [
-      "You have not fixed the greet function in greet.py"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1787741290.884927,
-    "completed_at": 1787741294.405294,
-    "comments": [
-      "You still have uncommitted changes. Commit them first on the appropriate branch first!"
-    ],
-    "status": "Incomplete"
   }
 ]
